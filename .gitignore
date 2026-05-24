@@ -17,6 +17,9 @@ __pycache__/
 # 向量数据库（本地数据）
 chroma_db/
 
+# 个人文件
+resume_skills.md
+
 # Claude Code
 .claude/
 
